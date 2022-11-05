@@ -1,0 +1,29 @@
+{
+  "name": "e2e-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "cypress open",
+    "cypress-version": "cypress --version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianddev/e2e-init.git"
+  },
+  "keywords": [
+    "testing",
+    "e2e",
+    "cypress"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianddev/e2e-init/issues"
+  },
+  "homepage": "https://github.com/christianddev/e2e-init#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
